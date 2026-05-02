@@ -1,1 +1,1 @@
-Day 1: environment set up. learning
+Day 1: environment set up.
